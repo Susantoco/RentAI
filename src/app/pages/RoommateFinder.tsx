@@ -30,9 +30,9 @@ export function RoommateFinder() {
 
   const userProfile = {
     name: "You",
-    age: 28,
+    age: 21,
     occupation: "Software Engineer",
-    budget: "$1,400 - $2,000",
+    budget: "1,500,000 - 2,500,000 VND",
     moveIn: "Apr 1, 2026",
     preferences: {
       cleanliness: 85,
