@@ -35,9 +35,9 @@ export function PropertyDetails() {
   const property = {
     id: 1,
     title: "Modern Downtown Loft",
-    location: "Manhattan, NY",
-    address: "123 Broadway, New York, NY 10013",
-    price: 2800,
+    location: "Da Nang, Vietnam",
+    address: "123 Main Street, Da Nang, Vietnam",
+    price: 2800000,
     beds: 2,
     baths: 2,
     sqft: 1200,
@@ -45,7 +45,7 @@ export function PropertyDetails() {
     reviews: 24,
     available: "Mar 15, 2026",
     description:
-      "Experience luxury living in this stunning modern loft in the heart of Manhattan. This beautifully designed 2-bedroom, 2-bathroom apartment features floor-to-ceiling windows, hardwood floors, and high-end finishes throughout. The open-concept living area is perfect for entertaining, while the gourmet kitchen comes equipped with stainless steel appliances and granite countertops.",
+      "Experience luxury living in this stunning modern loft in the heart of Viet Nam. This beautifully designed 2-bedroom, 2-bathroom apartment features floor-to-ceiling windows, hardwood floors, and high-end finishes throughout. The open-concept living area is perfect for entertaining, while the gourmet kitchen comes equipped with stainless steel appliances and granite countertops.",
     images: [
       "https://images.unsplash.com/photo-1663756915301-2ba688e078cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBhcGFydG1lbnQlMjBsaXZpbmclMjByb29tfGVufDF8fHx8MTc3MjQyMDAwOXww&ixlib=rb-4.1.0&q=80&w=1080",
       "https://images.unsplash.com/photo-1625579002297-aeebbf69de89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxsdXh1cnklMjBiZWRyb29tJTIwaW50ZXJpb3J8ZW58MXx8fHwxNzcyMzc1NjQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
